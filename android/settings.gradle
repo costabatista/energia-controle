@@ -1,0 +1,3 @@
+rootProject.name = 'EnergiaControle'
+
+include ':app'
